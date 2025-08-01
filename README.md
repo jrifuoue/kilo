@@ -1,5 +1,8 @@
-Kilo
-===
+## LavaOS port
+
+this version of kilo only can run on LavaOS, you can use [the original code](https://github.com/antirez/kilo) for other platforms.
+
+# Kilo
 
 Kilo is a small text editor in less than 1K lines of code (counted with cloc).
 
@@ -7,7 +10,7 @@ A screencast is available here: https://asciinema.org/a/90r2i9bq8po03nazhqtsifks
 
 Usage: kilo `<filename>`
 
-Keys:
+## Keys:
 
     CTRL-S: Save
     CTRL-Q: Quit
